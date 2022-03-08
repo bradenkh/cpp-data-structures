@@ -1,0 +1,4 @@
+﻿  Validating sources
+  'make' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.Makefile.Targets(318,5): error MSB3073: The command "make" exited with code 9009.

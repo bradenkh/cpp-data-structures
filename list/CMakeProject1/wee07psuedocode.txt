@@ -1,0 +1,95 @@
+ deconstructor()
+   call clear
+
+Copy contructor()
+   declare new list
+   use assignment operator
+
+assignment operator()
+   FOR length of list
+      pop from the front of the old list
+      push onto the back of new list
+      numelements++
+
+empty()
+   IF numelements is greater than 0 RETURN false
+   ELSE RETURN true
+
+size()
+   RETURN numelements  
+
+clear()
+   FOR length of list (except the first and last nodes)
+   freedata
+   RETURN
+
+push_back()
+   IF empty
+      phead and ptail are new thing
+   ELSE
+      insert(newdata, after is true) into tail
+
+
+push_front()
+   IF empty
+         phead and ptail are new thing
+   ELSE
+      insert(newdata, after is false) into phead
+         
+pop_front()
+   remove(phead)
+
+erase()
+   IF dereferenced iterator is null RETURN
+   remove(dereference an iterator)
+
+find()
+   FOR iterate the list
+      if dereferenced iterator is equal to the element
+         RETURN iterator
+   RETURN end()
+
+
+front() 
+   return phead by ref
+
+front() 
+   return phead by value
+
+back() 
+   return ptail by value
+
+insert()
+   insert(iterator, newdata)
+
+begin()
+   RETURN phead
+
+rbegin()
+   return a null value after the phead is reached
+
+end()
+   RETURN ptail
+
+rend()
+   return a null value after the phead is reached
+
+ITERATOR CLASS X (done I think)
+X default constructor()
+
+X non Default constructor()
+
+X copy constructor()
+
+X = operator overload()
+
+X == operator overload()
+
+X != operator overload()
+
+X ++ operator overload()
+
+--  operator overload()
+
+X *  operator overload()
+
