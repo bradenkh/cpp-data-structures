@@ -3,7 +3,7 @@
  *    Assignment 12, Spell Check
  *    Brother Helfrich, CS 235
  * Author:
- *    <your name here>
+ *    Braden Hansen
  * Summary:
  *    This program will implement the spellCheck() function
  ************************************************************************/

@@ -3,7 +3,7 @@
 *    Assignment 01, Go Fish
 *    Brother Helfrich, CS 235
 * Author:
-*    <your names here>
+*    Braden Hansen
 * Summary: 
 *    This is all the functions necessary to play Go Fish!
 *

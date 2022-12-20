@@ -3,7 +3,7 @@
  *    Assignment 09, Binary Search Tree (BST)
  *    Brother <your instructor name here>, CS 235
  * Author:
- *    <your name here>
+ *    Braden Hansen
  * Summary:
  *    Create a binary search tree
  ************************************************************************/

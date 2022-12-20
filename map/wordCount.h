@@ -5,7 +5,7 @@
 *    This will contain just the prototype for the wordCount()
 *    function
 * Author
-*    <your names here>
+*    Braden Hansen
 ************************************************************************/
 
 #ifndef WORD_COUNT_H

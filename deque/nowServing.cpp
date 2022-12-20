@@ -5,7 +5,7 @@
  *    This will contain the implementation for nowServing() as well as any
  *    other function or class implementations you may need
  * Author
- *    <your names here>
+ *    Braden Hansen
  **********************************************************************/
 
 #include <iostream>     // for ISTREAM, OSTREAM, CIN, and COUT

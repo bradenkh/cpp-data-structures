@@ -6,7 +6,7 @@
  *    This will contain just the prototype for insertionSortTest(). You may
  *    want to put other class definitions here as well.
  * Author
- *    <your names here>
+ *    Braden Hansen
  ************************************************************************/
 
 #ifndef INSERTION_SORT_H

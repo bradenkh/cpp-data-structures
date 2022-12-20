@@ -3,7 +3,7 @@
 #     Assignment 07, LIST
 #     Brother XXXXX, CS235
 # Author:
-#     <your name here>
+#     Braden Hansen
 # Summary:
 #     <put a description here>
 ###############################################################

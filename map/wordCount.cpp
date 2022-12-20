@@ -3,7 +3,7 @@
  *    Week 10, WORD COUNT
  *    Brother Helfrich, CS 235
  * Author:
- *    <your name here>
+ *    Braden Hansen
  * Summary:
  *    This program will implement the wordCount() function
  ************************************************************************/

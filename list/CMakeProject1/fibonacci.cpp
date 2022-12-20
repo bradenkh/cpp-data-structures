@@ -5,7 +5,7 @@
  *    This will contain the implementation for fibonacci() as well as any
  *    other function or class implementations you may need
  * Author
- *    <your names here>
+ *    Braden Hansen
  **********************************************************************/
 
 #include <iostream>
