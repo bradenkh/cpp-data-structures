@@ -1,2 +1,2 @@
 # cpp-data-structures
-Data structures created in c++ as coursework
+Data structures created in C++ as coursework
